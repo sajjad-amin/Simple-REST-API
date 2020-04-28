@@ -13,7 +13,7 @@ send data using this structure to update. If you want to insert data just remove
 If you want to delete, you have to send only id
 ```
 {
-	id:1
+	"id":1
 }
 ``` 
 ## Uses :
