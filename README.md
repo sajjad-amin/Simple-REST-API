@@ -30,5 +30,5 @@ If you want to delete, you have to send only id
 	URL/api/update
 *send data with id in JSON format using PUT method*
 ### Delete data :
-	URL/api/delete/id
+	URL/api/delete
 *send id in JSON format using DELETE method)*
